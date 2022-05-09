@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Eva Maria 04 Bot</b>
 </h1>
 
 
@@ -56,8 +56,7 @@ You can deploy this bot anywhere.
 
 <details><summary>Deploy To Heroku</summary>
 <p>
-<br> [Heraku button]>
-<a https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https%3A%2F%2Fgithub.com%2FYT-04%2FEvaMaria04"Deploy">
+<br> [Heraku button]>https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https%3A%2F%2Fgithub.com%2FYT-04%2FEvaMaria04">
 </a>
 </p>
 </details>
